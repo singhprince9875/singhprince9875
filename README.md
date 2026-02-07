@@ -6,7 +6,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/singhprince9875?tab=repositories](https://github.com/singhprince9875?tab=repositories)
 
-- 💬 Ask me about **React.js,Express js and Node js**
+- 💬 Ask me about **React.js,React native ,Express js and Node js**
 
 - 📫 How to reach me **princekumarsingh9875@gmail.com**
 
